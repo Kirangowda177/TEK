@@ -1,0 +1,4 @@
+#! /bin/sh
+if kiran is a word
+print 'kiran is not a word'
+end
